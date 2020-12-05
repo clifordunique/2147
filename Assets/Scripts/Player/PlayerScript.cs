@@ -77,9 +77,9 @@ public class PlayerScript : MonoBehaviour
         {
             win = true;
         }
-        else if (col.CompareTag("Floppy"))
+        else if (col.CompareTag("Electric"))
         {
-            gameManagerScript.ChangeFloppyCount();
+            gameManagerScript.ChangeElectricCount();
             col.gameObject.SetActive(false);
         }
         else if (col.CompareTag("Health"))

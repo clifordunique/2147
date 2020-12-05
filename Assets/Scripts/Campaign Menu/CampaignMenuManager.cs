@@ -9,9 +9,17 @@ public class CampaignMenuManager : MonoBehaviour
     Image fadeImage;
     Color fadeImageColor;
     GameObject fadeImageObject;
+    ResourceData resourceData;
     string sceneName;
+    public Text electricCountText;
+    public Text nuclearCountText;
     void Awake()
     {
+        //Loads Resource Data. And Displaying in Count Text.
+        resourceData = SaveSystem.LoadResourceData();
+        electricCountText.text = resourceData.electricTotalCount.ToString();
+        nuclearCountText.text = resourceData.nuclearTotalCount.ToString();
+
         Application.targetFrameRate = 300;
 
         fadeImage = GameObject.Find("Canvas").transform.Find("FadeImage").GetComponent<Image>();

@@ -3002,127 +3002,72 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2129327043}
   m_CullTransparentMesh: 0
---- !u!1001 &4762977391519748129
+--- !u!1001 &1154834621736678805
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[1].clip
-      value: 
-      objectReference: {fileID: 8300000, guid: 4e8e7220d917d4d91b3596b010b64e33, type: 3}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[1].loop
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[1].name
-      value: UI Select
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[2].clip
-      value: 
-      objectReference: {fileID: 8300000, guid: 1f35881b0fad7144782d06756c394b94, type: 3}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[2].name
-      value: SkinSelect
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[1].pitch
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[2].pitch
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[0].volume
-      value: 0.35
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[1].volume
-      value: 0.15
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251642, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: sounds.Array.data[2].volume
-      value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251643, guid: e63b8f9e12088274f9217ea42dd6d587,
-        type: 3}
-      propertyPath: m_Name
-      value: Audio Manager
-      objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 369.4776
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 185.60962
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -1633.7983
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4762977391556251645, guid: e63b8f9e12088274f9217ea42dd6d587,
+    - target: {fileID: 1154834622566086676, guid: e63b8f9e12088274f9217ea42dd6d587,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1154834622566086890, guid: e63b8f9e12088274f9217ea42dd6d587,
+        type: 3}
+      propertyPath: m_Name
+      value: Audio Manager
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e63b8f9e12088274f9217ea42dd6d587, type: 3}

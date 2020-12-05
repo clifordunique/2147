@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1022959966665349030}
   - component: {fileID: 5897435314530780144}
-  - component: {fileID: 676465982106883565}
+  - component: {fileID: 8992561315717171941}
   m_Layer: 16
   m_Name: floppy
   m_TagString: Floppy
@@ -70,7 +70,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1466829241
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 8d40650987103ba42ae78de22fa9b64e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -83,8 +83,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &676465982106883565
-BoxCollider2D:
+--- !u!58 &8992561315717171941
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -96,16 +96,6 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.06342125, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 24.003326, y: 22.55}
-    newSize: {x: 24.003326, y: 22.55}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
+  m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Size: {x: 26.15963, y: 22.55}
-  m_EdgeRadius: 0
+  m_Radius: 0.52

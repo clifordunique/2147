@@ -7,11 +7,11 @@ public class ResourceData
 {
     public int electricTotalCount;
     public int nuclearTotalCount;
-    public ResourceData (ResourceData resourceData)
+    /*public ResourceData (ResourceData resourceData)
     {
         electricTotalCount = resourceData.electricTotalCount;
         nuclearTotalCount = resourceData.nuclearTotalCount;
-    }
+    }*/
 
     public ResourceData()
     {

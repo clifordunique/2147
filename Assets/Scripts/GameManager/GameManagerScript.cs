@@ -5,37 +5,42 @@ using UnityEngine.UI;
 
 public class GameManagerScript : MonoBehaviour
 {
+    ResourceData resourceData;
+    PlayerData playerData;
     PlayerScript playerScript;
-    GameMenu gameMenuScript;
-    MiniMapCamera miniMapCamera;
-    [SerializeField] public float maxHealth, currentHealth;
-    private Transform playerTransform, mainCameraTransform;
-    float currentFlopppyCount;
+    MiniMapCamera miniMapCamera; //To Call the Coroutine that make the player Icon blink in Minimap.
     GameObject fadeImage;
     GameObject reloadingCheckPointText;
-    Text floppyCountText, lifeCountText;
-    [HideInInspector] public Slider moveSlider, jumpSlider;
+    GameObject mainCamera;
+    GameObject mapCamera;
+    GameObject mapBackbutton;
+    GameObject gameMenu; //gameMenu is the Menu UI while playing the game.
+    Transform playerTransform; //To change the position of the player when respawning.
     [HideInInspector] public Transform lastCheckpoint;
+    Camera cam; //To Activate Frames according to the relative position with main Camera.
     Image healthBarFillImage;
-    GameObject mainCamera, mapCamera, mapBackbutton;
-    //gameMenu is the Menu UI while playing the game.
-    //mapMenu is the Menu UI while maximizing the map.
-    GameObject gameMenu;
-    //Script for pausing and playing the game while maximizing the Map.
+    Text lifeCountText;
+    Text electricCountText;
+    float currentElectricCount;
+    float totalLifeCount;
+    float currentLifeCount;
+    [HideInInspector] public float maxHealth;
+    [HideInInspector] public float currentHealth;
+    bool isDead; // isDead is true when the currentHealth is less than 0. isDead becomes false when player is respawned.
     [HideInInspector] public bool isPaused; // isPaused is for NOT processing the inputs if the game is paused.
     [HideInInspector] public bool isMiniMap; // isMiniMap is true when map is Maximized. It is for NOT processing the inputs if Map is maximized. 
     [HideInInspector] public bool gameOver; // gameOver is true when all lives are used.
-    private float currentLifeCount, totalLifeCount;
-    public float testMagnitude, testRoughness;
-    List<Vector2> frameLeftBound, frameRightBound, frameTopBound, frameBottomBound;
-    Camera cam;
+    List<Vector2> frameLeftBound; //List to Store the leftBound of every frame.
+    List<Vector2> frameRightBound; //List to Store the rightBound of every frame.
+    List<Vector2> frameTopBound; //List to Store the topBound of every frame.
+    List<Vector2> frameBottomBound; //List to Store the bottomBound of every frame.
     [SerializeField] private List<GameObject> listOfFrames;
     int i, totalFrames;
-    bool everyFrameIsActive; // everyFrameIsActive is true when every frame in the scene is active(When map is maximized).
-    bool isDead; // isDead is true when the currentHealth is less than 0. isDead becomes false when player is respawned.
-    
+
     void Start()
     {
+        LoadData();
+
         // Make the game run as fast as possible
         Application.targetFrameRate = 300;
         
@@ -50,7 +55,7 @@ public class GameManagerScript : MonoBehaviour
         reloadingCheckPointText.SetActive(false);
 
 
-        floppyCountText = GameObject.FindWithTag("Canvas").transform.Find("FloppyCount").Find("FloppyCountText").GetComponent<Text>();
+        electricCountText = GameObject.FindWithTag("Canvas").transform.Find("ElectricCount").Find("ElectricCountText").GetComponent<Text>();
         lifeCountText = GameObject.FindWithTag("Canvas").transform.Find("LifeCount").Find("LifeCountText").GetComponent<Text>();
 
         lastCheckpoint = transform.Find("OriginPosition").GetComponent<Transform>();
@@ -59,7 +64,6 @@ public class GameManagerScript : MonoBehaviour
         playerScript = GameObject.FindWithTag("Player").GetComponent<PlayerScript>();
 
         mainCamera = GameObject.FindWithTag("MainCamera");
-        mainCameraTransform = mainCamera.GetComponent<Transform>();
         gameMenu = GameObject.Find("Game Canvas");
 
         mapCamera = GameObject.Find("Map Camera");
@@ -69,9 +73,7 @@ public class GameManagerScript : MonoBehaviour
 
         mapCamera.SetActive(false);
 
-        gameMenuScript = GetComponent<GameMenu>();
-
-        floppyCountText.text = "x 0";
+        electricCountText.text = "x 0";
         lifeCountText.text = "x " + totalLifeCount;
 
         cam = Camera.main;
@@ -79,6 +81,15 @@ public class GameManagerScript : MonoBehaviour
         //ReadTotalFrames();
 
         isDead = false;
+    }
+
+    void LoadData()
+    {
+        //Loading the saved Resource Data.
+        resourceData = SaveSystem.LoadResourceData();
+
+        //Loading the saved Player Data.
+        playerData = SaveSystem.LoadPlayerData();
     }
 
     // Update is called once per frame
@@ -167,6 +178,7 @@ public class GameManagerScript : MonoBehaviour
     public void SetHealth()
     {
         healthBarFillImage.fillAmount = currentHealth/maxHealth;
+        print ("HealthBar changed");
 
         if (currentHealth <= 0 && !isDead)
         {
@@ -233,10 +245,13 @@ public class GameManagerScript : MonoBehaviour
     }
     #endregion
 
-    public void ChangeFloppyCount()
+    public void ChangeElectricCount()
     {
-        currentFlopppyCount ++;
-        floppyCountText.text = "x " + currentFlopppyCount;
+        currentElectricCount ++;
+        electricCountText.text = "x " + currentElectricCount;
+
+        resourceData.electricTotalCount ++;
+        SaveSystem.SaveResourceData(resourceData);
     }
 
     public void MaximizeMap()

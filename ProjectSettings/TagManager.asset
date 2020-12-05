@@ -12,7 +12,6 @@ TagManager:
   - WinDoor
   - LaserTrap
   - Trap
-  - Floppy
   - Health
   - CheckPoint
   - AirGun
@@ -20,6 +19,7 @@ TagManager:
   - Saw
   - Laser
   - Poison
+  - Electric
   layers:
   - Default
   - TransparentFX
