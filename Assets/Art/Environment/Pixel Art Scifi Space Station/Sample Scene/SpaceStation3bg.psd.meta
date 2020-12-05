@@ -1,0 +1,6598 @@
+fileFormatVersion: 2
+guid: 980b68f46fdabe54b90901ac77f5dbd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpaceStation3bg_0
+  - first:
+      213: 21300002
+    second: SpaceStation3bg_1
+  - first:
+      213: 21300004
+    second: SpaceStation3bg_2
+  - first:
+      213: 21300006
+    second: SpaceStation3bg_3
+  - first:
+      213: 21300008
+    second: SpaceStation3bg_4
+  - first:
+      213: 21300010
+    second: SpaceStation3bg_5
+  - first:
+      213: 21300012
+    second: SpaceStation3bg_6
+  - first:
+      213: 21300014
+    second: SpaceStation3bg_7
+  - first:
+      213: 21300016
+    second: SpaceStation3bg_8
+  - first:
+      213: 21300018
+    second: SpaceStation3bg_9
+  - first:
+      213: 21300020
+    second: SpaceStation3bg_10
+  - first:
+      213: 21300022
+    second: SpaceStation3bg_11
+  - first:
+      213: 21300024
+    second: SpaceStation3bg_12
+  - first:
+      213: 21300026
+    second: SpaceStation3bg_13
+  - first:
+      213: 21300028
+    second: SpaceStation3bg_14
+  - first:
+      213: 21300030
+    second: SpaceStation3bg_15
+  - first:
+      213: 21300032
+    second: SpaceStation3bg_16
+  - first:
+      213: 21300034
+    second: SpaceStation3bg_17
+  - first:
+      213: 21300036
+    second: SpaceStation3bg_18
+  - first:
+      213: 21300038
+    second: SpaceStation3bg_19
+  - first:
+      213: 21300040
+    second: SpaceStation3bg_20
+  - first:
+      213: 21300042
+    second: SpaceStation3bg_21
+  - first:
+      213: 21300044
+    second: SpaceStation3bg_22
+  - first:
+      213: 21300046
+    second: SpaceStation3bg_23
+  - first:
+      213: 21300048
+    second: SpaceStation3bg_24
+  - first:
+      213: 21300050
+    second: SpaceStation3bg_25
+  - first:
+      213: 21300052
+    second: SpaceStation3bg_26
+  - first:
+      213: 21300054
+    second: SpaceStation3bg_27
+  - first:
+      213: 21300056
+    second: SpaceStation3bg_28
+  - first:
+      213: 21300058
+    second: SpaceStation3bg_29
+  - first:
+      213: 21300060
+    second: SpaceStation3bg_30
+  - first:
+      213: 21300062
+    second: SpaceStation3bg_31
+  - first:
+      213: 21300064
+    second: SpaceStation3bg_32
+  - first:
+      213: 21300066
+    second: SpaceStation3bg_33
+  - first:
+      213: 21300068
+    second: SpaceStation3bg_34
+  - first:
+      213: 21300070
+    second: SpaceStation3bg_35
+  - first:
+      213: 21300072
+    second: SpaceStation3bg_36
+  - first:
+      213: 21300074
+    second: SpaceStation3bg_37
+  - first:
+      213: 21300076
+    second: SpaceStation3bg_38
+  - first:
+      213: 21300078
+    second: SpaceStation3bg_39
+  - first:
+      213: 21300080
+    second: SpaceStation3bg_40
+  - first:
+      213: 21300082
+    second: SpaceStation3bg_41
+  - first:
+      213: 21300084
+    second: SpaceStation3bg_42
+  - first:
+      213: 21300086
+    second: SpaceStation3bg_43
+  - first:
+      213: 21300088
+    second: SpaceStation3bg_44
+  - first:
+      213: 21300090
+    second: SpaceStation3bg_45
+  - first:
+      213: 21300092
+    second: SpaceStation3bg_46
+  - first:
+      213: 21300094
+    second: SpaceStation3bg_47
+  - first:
+      213: 21300096
+    second: SpaceStation3bg_48
+  - first:
+      213: 21300098
+    second: SpaceStation3bg_49
+  - first:
+      213: 21300100
+    second: SpaceStation3bg_50
+  - first:
+      213: 21300102
+    second: SpaceStation3bg_51
+  - first:
+      213: 21300104
+    second: SpaceStation3bg_52
+  - first:
+      213: 21300106
+    second: SpaceStation3bg_53
+  - first:
+      213: 21300108
+    second: SpaceStation3bg_54
+  - first:
+      213: 21300110
+    second: SpaceStation3bg_55
+  - first:
+      213: 21300112
+    second: SpaceStation3bg_56
+  - first:
+      213: 21300114
+    second: SpaceStation3bg_57
+  - first:
+      213: 21300116
+    second: SpaceStation3bg_58
+  - first:
+      213: 21300118
+    second: SpaceStation3bg_59
+  - first:
+      213: 21300120
+    second: SpaceStation3bg_60
+  - first:
+      213: 21300122
+    second: SpaceStation3bg_61
+  - first:
+      213: 21300124
+    second: SpaceStation3bg_62
+  - first:
+      213: 21300126
+    second: SpaceStation3bg_63
+  - first:
+      213: 21300128
+    second: SpaceStation3bg_64
+  - first:
+      213: 21300130
+    second: SpaceStation3bg_65
+  - first:
+      213: 21300132
+    second: SpaceStation3bg_66
+  - first:
+      213: 21300134
+    second: SpaceStation3bg_67
+  - first:
+      213: 21300136
+    second: SpaceStation3bg_68
+  - first:
+      213: 21300138
+    second: SpaceStation3bg_69
+  - first:
+      213: 21300140
+    second: SpaceStation3bg_70
+  - first:
+      213: 21300142
+    second: SpaceStation3bg_71
+  - first:
+      213: 21300144
+    second: SpaceStation3bg_72
+  - first:
+      213: 21300146
+    second: SpaceStation3bg_73
+  - first:
+      213: 21300148
+    second: SpaceStation3bg_74
+  - first:
+      213: 21300150
+    second: SpaceStation3bg_75
+  - first:
+      213: 21300152
+    second: SpaceStation3bg_76
+  - first:
+      213: 21300154
+    second: SpaceStation3bg_77
+  - first:
+      213: 21300156
+    second: SpaceStation3bg_78
+  - first:
+      213: 21300158
+    second: SpaceStation3bg_79
+  - first:
+      213: 21300160
+    second: SpaceStation3bg_80
+  - first:
+      213: 21300162
+    second: SpaceStation3bg_81
+  - first:
+      213: 21300164
+    second: SpaceStation3bg_82
+  - first:
+      213: 21300166
+    second: SpaceStation3bg_83
+  - first:
+      213: 21300168
+    second: SpaceStation3bg_84
+  - first:
+      213: 21300170
+    second: SpaceStation3bg_85
+  - first:
+      213: 21300172
+    second: SpaceStation3bg_86
+  - first:
+      213: 21300174
+    second: SpaceStation3bg_87
+  - first:
+      213: 21300176
+    second: SpaceStation3bg_88
+  - first:
+      213: 21300178
+    second: SpaceStation3bg_89
+  - first:
+      213: 21300180
+    second: SpaceStation3bg_90
+  - first:
+      213: 21300182
+    second: SpaceStation3bg_91
+  - first:
+      213: 21300184
+    second: SpaceStation3bg_92
+  - first:
+      213: 21300186
+    second: SpaceStation3bg_93
+  - first:
+      213: 21300188
+    second: SpaceStation3bg_94
+  - first:
+      213: 21300190
+    second: SpaceStation3bg_95
+  - first:
+      213: 21300192
+    second: SpaceStation3bg_96
+  - first:
+      213: 21300194
+    second: SpaceStation3bg_97
+  - first:
+      213: 21300196
+    second: SpaceStation3bg_98
+  - first:
+      213: 21300198
+    second: SpaceStation3bg_99
+  - first:
+      213: 21300200
+    second: SpaceStation3bg_100
+  - first:
+      213: 21300202
+    second: SpaceStation3bg_101
+  - first:
+      213: 21300204
+    second: SpaceStation3bg_102
+  - first:
+      213: 21300206
+    second: SpaceStation3bg_103
+  - first:
+      213: 21300208
+    second: SpaceStation3bg_104
+  - first:
+      213: 21300210
+    second: SpaceStation3bg_105
+  - first:
+      213: 21300212
+    second: SpaceStation3bg_106
+  - first:
+      213: 21300214
+    second: SpaceStation3bg_107
+  - first:
+      213: 21300216
+    second: SpaceStation3bg_108
+  - first:
+      213: 21300218
+    second: SpaceStation3bg_109
+  - first:
+      213: 21300220
+    second: SpaceStation3bg_110
+  - first:
+      213: 21300222
+    second: SpaceStation3bg_111
+  - first:
+      213: 21300224
+    second: SpaceStation3bg_112
+  - first:
+      213: 21300226
+    second: SpaceStation3bg_113
+  - first:
+      213: 21300228
+    second: SpaceStation3bg_114
+  - first:
+      213: 21300230
+    second: SpaceStation3bg_115
+  - first:
+      213: 21300232
+    second: SpaceStation3bg_116
+  - first:
+      213: 21300234
+    second: SpaceStation3bg_117
+  - first:
+      213: 21300236
+    second: SpaceStation3bg_118
+  - first:
+      213: 21300238
+    second: SpaceStation3bg_119
+  - first:
+      213: 21300240
+    second: SpaceStation3bg_120
+  - first:
+      213: 21300242
+    second: SpaceStation3bg_121
+  - first:
+      213: 21300244
+    second: SpaceStation3bg_122
+  - first:
+      213: 21300246
+    second: SpaceStation3bg_123
+  - first:
+      213: 21300248
+    second: SpaceStation3bg_124
+  - first:
+      213: 21300250
+    second: SpaceStation3bg_125
+  - first:
+      213: 21300252
+    second: SpaceStation3bg_126
+  - first:
+      213: 21300254
+    second: SpaceStation3bg_127
+  - first:
+      213: 21300256
+    second: SpaceStation3bg_128
+  - first:
+      213: 21300258
+    second: SpaceStation3bg_129
+  - first:
+      213: 21300260
+    second: SpaceStation3bg_130
+  - first:
+      213: 21300262
+    second: SpaceStation3bg_131
+  - first:
+      213: 21300264
+    second: SpaceStation3bg_132
+  - first:
+      213: 21300266
+    second: SpaceStation3bg_133
+  - first:
+      213: 21300268
+    second: SpaceStation3bg_134
+  - first:
+      213: 21300270
+    second: SpaceStation3bg_135
+  - first:
+      213: 21300272
+    second: SpaceStation3bg_136
+  - first:
+      213: 21300274
+    second: SpaceStation3bg_137
+  - first:
+      213: 21300276
+    second: SpaceStation3bg_138
+  - first:
+      213: 21300278
+    second: SpaceStation3bg_139
+  - first:
+      213: 21300280
+    second: SpaceStation3bg_140
+  - first:
+      213: 21300282
+    second: SpaceStation3bg_141
+  - first:
+      213: 21300284
+    second: SpaceStation3bg_142
+  - first:
+      213: 21300286
+    second: SpaceStation3bg_143
+  - first:
+      213: 21300288
+    second: SpaceStation3bg_144
+  - first:
+      213: 21300290
+    second: SpaceStation3bg_145
+  - first:
+      213: 21300292
+    second: SpaceStation3bg_146
+  - first:
+      213: 21300294
+    second: SpaceStation3bg_147
+  - first:
+      213: 21300296
+    second: SpaceStation3bg_148
+  - first:
+      213: 21300298
+    second: SpaceStation3bg_149
+  - first:
+      213: 21300300
+    second: SpaceStation3bg_150
+  - first:
+      213: 21300302
+    second: SpaceStation3bg_151
+  - first:
+      213: 21300304
+    second: SpaceStation3bg_152
+  - first:
+      213: 21300306
+    second: SpaceStation3bg_153
+  - first:
+      213: 21300308
+    second: SpaceStation3bg_154
+  - first:
+      213: 21300310
+    second: SpaceStation3bg_155
+  - first:
+      213: 21300312
+    second: SpaceStation3bg_156
+  - first:
+      213: 21300314
+    second: SpaceStation3bg_157
+  - first:
+      213: 21300316
+    second: SpaceStation3bg_158
+  - first:
+      213: 21300318
+    second: SpaceStation3bg_159
+  - first:
+      213: 21300320
+    second: SpaceStation3bg_160
+  - first:
+      213: 21300322
+    second: SpaceStation3bg_161
+  - first:
+      213: 21300324
+    second: SpaceStation3bg_162
+  - first:
+      213: 21300326
+    second: SpaceStation3bg_163
+  - first:
+      213: 21300328
+    second: SpaceStation3bg_164
+  - first:
+      213: 21300330
+    second: SpaceStation3bg_165
+  - first:
+      213: 21300332
+    second: SpaceStation3bg_166
+  - first:
+      213: 21300334
+    second: SpaceStation3bg_167
+  - first:
+      213: 21300336
+    second: SpaceStation3bg_168
+  - first:
+      213: 21300338
+    second: SpaceStation3bg_169
+  - first:
+      213: 21300340
+    second: SpaceStation3bg_170
+  - first:
+      213: 21300342
+    second: SpaceStation3bg_171
+  - first:
+      213: 21300344
+    second: SpaceStation3bg_172
+  - first:
+      213: 21300346
+    second: SpaceStation3bg_173
+  - first:
+      213: 21300348
+    second: SpaceStation3bg_174
+  - first:
+      213: 21300350
+    second: SpaceStation3bg_175
+  - first:
+      213: 21300352
+    second: SpaceStation3bg_176
+  - first:
+      213: 21300354
+    second: SpaceStation3bg_177
+  - first:
+      213: 21300356
+    second: SpaceStation3bg_178
+  - first:
+      213: 21300358
+    second: SpaceStation3bg_179
+  - first:
+      213: 21300360
+    second: SpaceStation3bg_180
+  - first:
+      213: 21300362
+    second: SpaceStation3bg_181
+  - first:
+      213: 21300364
+    second: SpaceStation3bg_182
+  - first:
+      213: 21300366
+    second: SpaceStation3bg_183
+  - first:
+      213: 21300368
+    second: SpaceStation3bg_184
+  - first:
+      213: 21300370
+    second: SpaceStation3bg_185
+  - first:
+      213: 21300372
+    second: SpaceStation3bg_186
+  - first:
+      213: 21300374
+    second: SpaceStation3bg_187
+  - first:
+      213: 21300376
+    second: SpaceStation3bg_188
+  - first:
+      213: 21300378
+    second: SpaceStation3bg_189
+  - first:
+      213: 21300380
+    second: SpaceStation3bg_190
+  - first:
+      213: 21300382
+    second: SpaceStation3bg_191
+  - first:
+      213: 21300384
+    second: SpaceStation3bg_192
+  - first:
+      213: 21300386
+    second: SpaceStation3bg_193
+  - first:
+      213: 21300388
+    second: SpaceStation3bg_194
+  - first:
+      213: 21300390
+    second: SpaceStation3bg_195
+  - first:
+      213: 21300392
+    second: SpaceStation3bg_196
+  - first:
+      213: 21300394
+    second: SpaceStation3bg_197
+  - first:
+      213: 21300396
+    second: SpaceStation3bg_198
+  - first:
+      213: 21300398
+    second: SpaceStation3bg_199
+  - first:
+      213: 21300400
+    second: SpaceStation3bg_200
+  - first:
+      213: 21300402
+    second: SpaceStation3bg_201
+  - first:
+      213: 21300404
+    second: SpaceStation3bg_202
+  - first:
+      213: 21300406
+    second: SpaceStation3bg_203
+  - first:
+      213: 21300408
+    second: SpaceStation3bg_204
+  - first:
+      213: 21300410
+    second: SpaceStation3bg_205
+  - first:
+      213: 21300412
+    second: SpaceStation3bg_206
+  - first:
+      213: 21300414
+    second: SpaceStation3bg_207
+  - first:
+      213: 21300416
+    second: SpaceStation3bg_208
+  - first:
+      213: 21300418
+    second: SpaceStation3bg_209
+  - first:
+      213: 21300420
+    second: SpaceStation3bg_210
+  - first:
+      213: 21300422
+    second: SpaceStation3bg_211
+  - first:
+      213: 21300424
+    second: SpaceStation3bg_212
+  - first:
+      213: 21300426
+    second: SpaceStation3bg_213
+  - first:
+      213: 21300428
+    second: SpaceStation3bg_214
+  - first:
+      213: 21300430
+    second: SpaceStation3bg_215
+  - first:
+      213: 21300432
+    second: SpaceStation3bg_216
+  - first:
+      213: 21300434
+    second: SpaceStation3bg_217
+  - first:
+      213: 21300436
+    second: SpaceStation3bg_218
+  - first:
+      213: 21300438
+    second: SpaceStation3bg_219
+  - first:
+      213: 21300440
+    second: SpaceStation3bg_220
+  - first:
+      213: 21300442
+    second: SpaceStation3bg_221
+  - first:
+      213: 21300444
+    second: SpaceStation3bg_222
+  - first:
+      213: 21300446
+    second: SpaceStation3bg_223
+  - first:
+      213: 21300448
+    second: SpaceStation3bg_224
+  - first:
+      213: 21300450
+    second: SpaceStation3bg_225
+  - first:
+      213: 21300452
+    second: SpaceStation3bg_226
+  - first:
+      213: 21300454
+    second: SpaceStation3bg_227
+  - first:
+      213: 21300456
+    second: SpaceStation3bg_228
+  - first:
+      213: 21300458
+    second: SpaceStation3bg_229
+  - first:
+      213: 21300460
+    second: SpaceStation3bg_230
+  - first:
+      213: 21300462
+    second: SpaceStation3bg_231
+  - first:
+      213: 21300464
+    second: SpaceStation3bg_232
+  - first:
+      213: 21300466
+    second: SpaceStation3bg_233
+  - first:
+      213: 21300468
+    second: SpaceStation3bg_234
+  - first:
+      213: 21300470
+    second: SpaceStation3bg_235
+  - first:
+      213: 21300472
+    second: SpaceStation3bg_236
+  - first:
+      213: 21300474
+    second: SpaceStation3bg_237
+  - first:
+      213: 21300476
+    second: SpaceStation3bg_238
+  - first:
+      213: 21300478
+    second: SpaceStation3bg_239
+  - first:
+      213: 21300480
+    second: SpaceStation3bg_240
+  - first:
+      213: 21300482
+    second: SpaceStation3bg_241
+  - first:
+      213: 21300484
+    second: SpaceStation3bg_242
+  - first:
+      213: 21300486
+    second: SpaceStation3bg_243
+  - first:
+      213: 21300488
+    second: SpaceStation3bg_244
+  - first:
+      213: 21300490
+    second: SpaceStation3bg_245
+  - first:
+      213: 21300492
+    second: SpaceStation3bg_246
+  - first:
+      213: 21300494
+    second: SpaceStation3bg_247
+  - first:
+      213: 21300496
+    second: SpaceStation3bg_248
+  - first:
+      213: 21300498
+    second: SpaceStation3bg_249
+  - first:
+      213: 21300500
+    second: SpaceStation3bg_250
+  - first:
+      213: 21300502
+    second: SpaceStation3bg_251
+  - first:
+      213: 21300504
+    second: SpaceStation3bg_252
+  - first:
+      213: 21300506
+    second: SpaceStation3bg_253
+  - first:
+      213: 21300508
+    second: SpaceStation3bg_254
+  - first:
+      213: 21300510
+    second: SpaceStation3bg_255
+  - first:
+      213: 21300512
+    second: SpaceStation3bg_256
+  - first:
+      213: 21300514
+    second: SpaceStation3bg_257
+  - first:
+      213: 21300516
+    second: SpaceStation3bg_258
+  - first:
+      213: 21300518
+    second: SpaceStation3bg_259
+  - first:
+      213: 21300520
+    second: SpaceStation3bg_260
+  - first:
+      213: 21300522
+    second: SpaceStation3bg_261
+  - first:
+      213: 21300524
+    second: SpaceStation3bg_262
+  - first:
+      213: 21300526
+    second: SpaceStation3bg_263
+  - first:
+      213: 21300528
+    second: SpaceStation3bg_264
+  - first:
+      213: 21300530
+    second: SpaceStation3bg_265
+  - first:
+      213: 21300532
+    second: SpaceStation3bg_266
+  - first:
+      213: 21300534
+    second: SpaceStation3bg_267
+  - first:
+      213: 21300536
+    second: SpaceStation3bg_268
+  - first:
+      213: 21300538
+    second: SpaceStation3bg_269
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22.222221
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceStation3bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209cd56051993260800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e9ce7f2c50eef0800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59feccb6734459d00800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a61000ef5d1e00800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5ca528805142a0800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e8dec3d322c030800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07407ca45ab785e0800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e6697ff29bcfe0800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f86908a8e361a0800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c53ce844b4f7f20800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb046dc60bb571b0800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eceb1d9374c4fe20800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8914db32e9b03af0800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b6d4408d778b770800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 377.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7e85048d542100800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f0f1e6ef88bce80800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dcd937cd3a69750800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79775941d8399e4d0800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7922baf74104dd0800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32e3425832d70b0800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a636daa88a1e20900800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3dbfe999dc7dc0800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457efadc37e1c8870800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db59e645022ff2e0800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead56acf8160677c0800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f69e5b16daca60800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d4d10a321d6b0b0800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df60b5b146bf650800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea9138880ee58e90800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 355.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e2177bfdc0133c0800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837df7010a28a010800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10744197b33deb0800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869cd656f88e414b0800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c35bd4afc99ce0800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ccc95944a3a000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb8ac05b9665ee0800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97d1359f4159db60800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85285eb1b06ac86a0800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94bfb9d937c4e20800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce265f38c18f1ceb0800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d301be12c7060480800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16361f4008d46ef0800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f14a4577dbe1c60800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978501ddd87196ab0800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_44
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 333.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9d3977479069b0800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd86b35e8721de50800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c225905eccf540800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba96b803f729c8880800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c8edacf68f1bb0800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca5fb511f3f7b50800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10e6a907c125a080800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ccea28cb68ada0800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2defcf441b99c8fa0800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a346e155c76040800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0aa23cccba7530800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8988edf940e43f0e0800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecea9b5ab60238a0800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493e22a9fc955550800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_58
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb65786ac6e9a450800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 311.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc557105011b210800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef04730409be780800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba56f1e68f469c60800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77976783351e6d2e0800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc1648bb98a5d90800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363fa73315fe55cd0800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2644fe2950797e370800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02131010f9f066650800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e00f4e7094ac70800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf763fd34434470800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56506da220e30400800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e906e12e5b88040800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86546c579921f3040800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab752100b25c3a7d0800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_73
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096caddce0ceb7230800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_74
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 289.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a94ed5e11f60c0800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e710d56056ddda0800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb9cc0120d79fcc0800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01c41c8bbc5d520800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1362bb281da78a130800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b161f278f39cd0800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cce76d70337f370800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e85a6441417fc0800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f252116c2366760800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30937072ad27c2a00800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2e0cf9ce1fd4ff0800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5508325e1931fee50800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff3752ee6d2d5a0800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06273b393bf5d260800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94bdd15dc2ce730800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_89
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 267.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a836f7ce988bf860800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410d0320318a2fb30800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609757cb03674a00800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d814b5553411efa90800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb34136ed1d0e020800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ac53e044ca0740800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd299fabc9ed480800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaaa911562c515f0800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faadb33cc3928300800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fa348963d110e10800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_99
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b22bb393ed0580800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056af55aa3c14110800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_101
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c966f16c83b479b0800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcffae4112f8fef0800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_103
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498dcd4642f2a2e0800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_104
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 245.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0518725ec2e620800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ad4b33890bcf60800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bbd4b6578a09c0800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_107
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5b4fbae45e4d30800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_108
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5123de409c3aa30800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_109
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a54ef48af3f7df0800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_110
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1efe2f4edd2f9ee0800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_111
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f928face2fe7cf170800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f971d8cbe754ca0800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_113
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535f30b82f8a485b0800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12aa0116dc4a5080800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbca305e346c5df0800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_116
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae62820b3139e050800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_117
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fd0926cd76f220800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_118
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e875b8428ac4e10800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_119
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 223.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c537071220daf560800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bee1f7192cbe3d0800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_121
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07e5dc843953a50800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_122
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbf37c46bdc0fc0800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978a640d5a170830800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f41b0b35f24a50800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b956afab1748009a0800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_126
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf14fbbef4a907e0800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_127
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744300fd0cf2f740800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_128
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558abb5d0f820f70800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_129
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a3521802d8485a0800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_130
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e66bdddfdf2040800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_131
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0f870fa5a02060800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_132
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe63e923c1f92b60800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_133
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73213c2542f477820800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_134
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 201.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c27494f64630b80800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6d2c575d84d820800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3c3483eafd5fd0800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_137
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb6880e1c1877f0800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_138
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb3c79f2230e0c40800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_139
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf6f5bebfd284e0800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_140
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0bbd0c5c4d35bb0800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_141
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6827697b968530800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_142
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c9008a262ace90800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_143
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095bee9da7256b780800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f9c83fe07d7450800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_145
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d85cc179ae4cc60800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_146
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8aa85fd713563d0800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_147
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311e75c671206ee0800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_148
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf304347559d0b120800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_149
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 179.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408330d472a49460800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae59f73771c82760800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_151
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f243034284cbb8e0800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_152
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013aca7b038b26d30800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_153
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cebc5e70c1d0690800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_154
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb05584c031f22e0800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_155
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de51285588271a70800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_156
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f0630f8e8b15e10800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_157
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7941f311d1d6af7a0800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_158
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558ff228d73e013a0800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_159
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f9a2d60e3193ff0800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_160
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9b672fd2f97f40800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_161
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a747040e95b1e0800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_162
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6c4b8316206640800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_163
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2149564f9292ea50800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_164
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 157.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1dff04244730bd0800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6094b42b80868180800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_166
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88e5081069ba5fa0800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b0a523b6be2890800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_168
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a13629ae27a1880800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_169
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22759387beb16b9e0800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_170
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c806f0ff28a53d0800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e8235560cb9ff0800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_172
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ad734f56818760800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_173
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8cd0d150e7d94d0800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_174
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fcd5932d6071b40800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_175
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b16cb450333710800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_176
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad51c63a42c2170800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_177
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbd4500f8f0af900800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_178
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefd4f699bf57e800800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_179
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 135.77777
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5350a3282909ad80800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e42589533c1000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de50f2a1bb8f1b0f0800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_182
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b35c656045227e0800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_183
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab56d1ed754d890800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_184
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca6f2c919af5300800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_185
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120bec03ce3f24310800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_186
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e6fe8b332c1980800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_187
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b822729bb92da80800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_188
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac073a881f16570800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_189
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c84f865d7d870c0800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_190
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7912e4224cc69d700800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_191
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1422e30c4435ed0800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_192
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fffd2a88a4d3bc0800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_193
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f9a24a46bbeb130800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_194
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 113.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5774a45961fd4ab20800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8178f66c0c3030800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_196
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923870554fb911170800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_197
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410fc65da931247f0800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_198
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e09994709c2ce0800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_199
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e996fe0ab4a25040800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_200
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd152d930a5fd2260800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_201
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ef0015d0bd5f010800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_202
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ede31e2758fc880800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_203
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c834e141aa22a0800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_204
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb001af24d4ea3d80800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_205
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903ac7fa7e943b0e0800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_206
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809383f17d2474f0800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_207
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734b225ea3df6810800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_208
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b94609b6d727e0800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_209
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 91.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb41582c99973d0800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4ed8ea00a59acd0800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_211
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17105143618d5b10800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_212
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9b715a9fca2bc0800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_213
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87bbec751db5c130800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_214
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f2c080a6871bb70800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_215
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cfefbad3f9ac030800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_216
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac881a0fa9f1700800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_217
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd795ecffc821f0800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_218
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ea97d8b9544380800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_219
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1309859363f8279b0800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_220
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be687806dabaa3aa0800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_221
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ce69ecb211e4d60800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_222
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a9003733190df0800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_223
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8846a2344617340800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_224
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 69.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b380afcf27c320800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c06a8967291f800800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_226
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58904814e7db450800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_227
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70977d27edece1f70800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_228
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73140c8d71fb43c60800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_229
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cef9bc053cab85e0800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_230
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03c8a4ec9987590800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_231
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6bdb546b4b54260800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_232
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee854165f429f060800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_233
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278dfc4ebdfbda230800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_234
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328a97daf2023720800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_235
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc81f8dd3531b30800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_236
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4204258f907b65460800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_237
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81103e4eedcd42c00800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_238
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4eee8798fa8f7f0800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_239
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 47.77778
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb7fa00baf91e90800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8046bf2264d7730800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_241
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aea882f20a853240800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_242
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179e891cd10ab0d0800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_243
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c77f2792f32970800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_244
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced986df607c5540800000000000000
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_245
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b80349787778d00800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_246
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd7752e7d31d860800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_247
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc1d46c518e9f20800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_248
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26b349465996ba0800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_249
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eead98b14506980800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_250
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67227062ebaba9740800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_251
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a88d8a24fc386160800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_252
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b1a0304f1f60b0800000000000000
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_253
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd83884a24c539f50800000000000000
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_254
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 25.777779
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca5b5e47ddb3a60800000000000000
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b3d39fef5c4600800000000000000
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_256
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e88d1e163593850800000000000000
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_257
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c366cd7068fd9f0800000000000000
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_258
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a54e1d455914f090800000000000000
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_259
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031d40a2d1dc7510800000000000000
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_260
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea3518c1551d660800000000000000
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_261
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f716412608797c0800000000000000
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_262
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9db65f9c7ab3f30800000000000000
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_263
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ba2386e0a88690800000000000000
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_264
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d03ed4502b556d0800000000000000
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_265
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba41d389cc6ab970800000000000000
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_266
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a0f56e3f9cd3c0800000000000000
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_267
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7772ad4538b12ee0800000000000000
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_268
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec01792e0cffdf30800000000000000
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation3bg_269
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3.7777786
+        width: 33.333332
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0bf62ff7bf27d0800000000000000
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

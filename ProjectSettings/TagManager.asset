@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Bullet
+  - Platform
+  - Canvas
+  - WinDoor
+  - LaserTrap
+  - Trap
+  - Floppy
+  - Health
+  - CheckPoint
+  - AirGun
+  - StationaryGun
+  - Saw
+  - Laser
+  - Poison
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - IgnoreLight
+  - Enemy
+  - Bullet
+  - IgnoreCollision
+  - Trap
+  - Pickups
+  - EnemyBullet
+  - SweeperLaser
+  - Barrel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1222387363
+    locked: 0
+  - name: Fire
+    uniqueID: 4084087085
+    locked: 0
+  - name: Ground
+    uniqueID: 443878393
+    locked: 0
+  - name: Objects
+    uniqueID: 1466829241
+    locked: 0
+  - name: Player
+    uniqueID: 742486247
+    locked: 0
+  - name: UI
+    uniqueID: 2062720215
+    locked: 0

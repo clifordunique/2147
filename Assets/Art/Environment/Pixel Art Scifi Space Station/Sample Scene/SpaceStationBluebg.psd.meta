@@ -1,0 +1,1414 @@
+fileFormatVersion: 2
+guid: 232eabe52bf83d64992a403b5ea479f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpaceStationBluebg_0
+  - first:
+      213: 21300002
+    second: SpaceStationBluebg_1
+  - first:
+      213: 21300004
+    second: SpaceStationBluebg_2
+  - first:
+      213: 21300006
+    second: SpaceStationBluebg_3
+  - first:
+      213: 21300008
+    second: SpaceStationBluebg_4
+  - first:
+      213: 21300010
+    second: SpaceStationBluebg_5
+  - first:
+      213: 21300012
+    second: SpaceStationBluebg_6
+  - first:
+      213: 21300014
+    second: SpaceStationBluebg_7
+  - first:
+      213: 21300016
+    second: SpaceStationBluebg_8
+  - first:
+      213: 21300018
+    second: SpaceStationBluebg_9
+  - first:
+      213: 21300020
+    second: SpaceStationBluebg_10
+  - first:
+      213: 21300022
+    second: SpaceStationBluebg_11
+  - first:
+      213: 21300024
+    second: SpaceStationBluebg_12
+  - first:
+      213: 21300026
+    second: SpaceStationBluebg_13
+  - first:
+      213: 21300028
+    second: SpaceStationBluebg_14
+  - first:
+      213: 21300030
+    second: SpaceStationBluebg_15
+  - first:
+      213: 21300032
+    second: SpaceStationBluebg_16
+  - first:
+      213: 21300034
+    second: SpaceStationBluebg_17
+  - first:
+      213: 21300036
+    second: SpaceStationBluebg_18
+  - first:
+      213: 21300038
+    second: SpaceStationBluebg_19
+  - first:
+      213: 21300040
+    second: SpaceStationBluebg_20
+  - first:
+      213: 21300042
+    second: SpaceStationBluebg_21
+  - first:
+      213: 21300044
+    second: SpaceStationBluebg_22
+  - first:
+      213: 21300046
+    second: SpaceStationBluebg_23
+  - first:
+      213: 21300048
+    second: SpaceStationBluebg_24
+  - first:
+      213: 21300050
+    second: SpaceStationBluebg_25
+  - first:
+      213: 21300052
+    second: SpaceStationBluebg_26
+  - first:
+      213: 21300054
+    second: SpaceStationBluebg_27
+  - first:
+      213: 21300056
+    second: SpaceStationBluebg_28
+  - first:
+      213: 21300058
+    second: SpaceStationBluebg_29
+  - first:
+      213: 21300060
+    second: SpaceStationBluebg_30
+  - first:
+      213: 21300062
+    second: SpaceStationBluebg_31
+  - first:
+      213: 21300064
+    second: SpaceStationBluebg_32
+  - first:
+      213: 21300066
+    second: SpaceStationBluebg_33
+  - first:
+      213: 21300068
+    second: SpaceStationBluebg_34
+  - first:
+      213: 21300070
+    second: SpaceStationBluebg_35
+  - first:
+      213: 21300072
+    second: SpaceStationBluebg_36
+  - first:
+      213: 21300074
+    second: SpaceStationBluebg_37
+  - first:
+      213: 21300076
+    second: SpaceStationBluebg_38
+  - first:
+      213: 21300078
+    second: SpaceStationBluebg_39
+  - first:
+      213: 21300080
+    second: SpaceStationBluebg_40
+  - first:
+      213: 21300082
+    second: SpaceStationBluebg_41
+  - first:
+      213: 21300084
+    second: SpaceStationBluebg_42
+  - first:
+      213: 21300086
+    second: SpaceStationBluebg_43
+  - first:
+      213: 21300088
+    second: SpaceStationBluebg_44
+  - first:
+      213: 21300090
+    second: SpaceStationBluebg_45
+  - first:
+      213: 21300092
+    second: SpaceStationBluebg_46
+  - first:
+      213: 21300094
+    second: SpaceStationBluebg_47
+  - first:
+      213: 21300096
+    second: SpaceStationBluebg_48
+  - first:
+      213: 21300098
+    second: SpaceStationBluebg_49
+  - first:
+      213: 21300100
+    second: SpaceStationBluebg_50
+  - first:
+      213: 21300102
+    second: SpaceStationBluebg_51
+  - first:
+      213: 21300104
+    second: SpaceStationBluebg_52
+  - first:
+      213: 21300106
+    second: SpaceStationBluebg_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceStationBluebg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12557ef67f47d1b10800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646a2ab8be591b50800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d9bb4a2129faf0800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5826f878a8f3df0800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119a87fa2d53be50800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 177.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174caf01accd10830800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa56894efb07fa40800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c289ff04718f3200800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 155.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87060fc4fc81865e0800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17dffc453009550800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c92a93d3ae37cb0800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c51d688c3d67100800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e7c25103592920800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 133.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c189f4a846dffbf0800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c74912e70c43bc0800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 133.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fd8f5f5494bc410800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e47eae6dc46eb0800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 133.77777
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5835a0284f2a8c3f0800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4c8e2f70f4cb10800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda5dbd7394477c0800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b8c7a3e8b20f30800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c30baeab808860800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3a10b0a3104330800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6953b6285e43380800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ac35ff41157570800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 89.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ce53731f532390800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 89.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a2ab8174fee310800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c780bd677f7bd4f60800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 89.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da69da168296ba0800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8889b3f753da20800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e9cd7dd72cf79f0800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa43d83a6a4b170800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6ad49efd2685f0800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843cd1edb0676dc90800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 67.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f0f81162c71c60800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 67.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5150ed05758767560800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d6e866ba2389a0800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bfd7b78fc5c1920800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692bd49f2b36d540800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e345bdca3e25b30800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e7bd5428d6c6930800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 45.77778
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069c4a2e15245450800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23.777779
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5ec2e784970d00800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23.777779
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f606a3a9cd6fe0800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23.777779
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3560c171728340800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23.777779
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f95603490397b180800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 23.777779
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb369faf6fcc8fb50800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 23.777779
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ea869e7a514c40800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7777786
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a325b8ada26793a60800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1.7777786
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e64f542341d760800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1.7777786
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bd2aca87c8897e0800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1.7777786
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe8f763562e7220800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1.7777786
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b35694b05b4060800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStationBluebg_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1.7777786
+        width: 32.166668
+        height: 22.222221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee08621e50f7d5ce0800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
