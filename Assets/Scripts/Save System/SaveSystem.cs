@@ -4,37 +4,37 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 public static class SaveSystem
 {
-    public static void SaveShopData(ShopData shopDataCopy)
+    public static void SaveResourceData(ResourceData shopDataCopy)
     {
         BinaryFormatter formatter = new BinaryFormatter();
-        string path = Application.persistentDataPath + "/shop.gm";
+        string path = Application.persistentDataPath + "/resource.gm";
         FileStream stream = new FileStream(path, FileMode.Create);
 
-        ShopData shopData = new ShopData(shopDataCopy);
+        ResourceData resourceData = new ResourceData(shopDataCopy);
 
-        formatter.Serialize(stream, shopData);
+        formatter.Serialize(stream, resourceData);
         stream.Close();
     }
 
-    public static ShopData LoadShopData()
+    public static ResourceData LoadResourceData()
     {
-        string path = Application.persistentDataPath + "/shop.gm";
+        string path = Application.persistentDataPath + "/resource.gm";
         
         if (File.Exists(path))
         {
             BinaryFormatter formatter = new BinaryFormatter();
             FileStream stream = new FileStream(path, FileMode.Open);
 
-            ShopData shopData = formatter.Deserialize(stream) as ShopData;
+            ResourceData resourceData = formatter.Deserialize(stream) as ResourceData;
             stream.Close();
 
-            return shopData;
+            return resourceData;
         }
         else
         {
             Debug.LogError("Save File Not Found in " + path);
-            ShopData shopData = new ShopData();
-            return shopData;
+            ResourceData resourceData = new ResourceData();
+            return resourceData;
         }
     }
 
